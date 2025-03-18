@@ -12,7 +12,7 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
-    "react": "16.14.0",
+    "react": "19.0.0",
     "react-native": "0.78.0",
     "react-native-inappbrowser-reborn": "^3.4.0",
     "url-parse": "^1.5.9"
@@ -25,7 +25,7 @@
     "eslint": "^9.0.0",
     "jest": "^25.1.0",
     "metro-react-native-babel-preset": "^0.77.0",
-    "react-test-renderer": "16.14.0"
+    "react-test-renderer": "19.0.0"
   },
   "jest": {
     "preset": "react-native"
